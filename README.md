@@ -1,5 +1,5 @@
 ## Greetings 👋
-
+Top languages in open repositories:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duriel666)](https://github.com/duriel666)
 
 <!--
