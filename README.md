@@ -1,5 +1,5 @@
 ## Greetings 👋
-Top languages used in open repositories:
+Top languages used:
 
 [![Top Langs](https://github-readme-stats-sandy-beta-62.vercel.app/api/top-langs/?username=duriel666)](https://github.com/duriel666&exclude_repo=github-readme-stats)
 
