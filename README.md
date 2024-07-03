@@ -1,7 +1,7 @@
 ## Greetings 👋
 Top languages used in open repositories:
 
-[![Top Langs](https://github-readme-stats-sandy-beta-62.vercel.app/api/top-langs/?username=duriel666)](https://github.com/duriel666)
+[![Top Langs](https://github-readme-stats-sandy-beta-62.vercel.app/api/top-langs/?username=duriel666)](https://github.com/duriel666&exclude_repo=github-readme-stats)
 
 <!--
 **duriel666/duriel666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
